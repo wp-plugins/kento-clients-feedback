@@ -1,0 +1,87 @@
+.kento-clients-feedback{
+margin-top:50px;
+text-align:center;
+width:100%;
+}
+.kento-clients-feedback .kento-cf-author-img{
+border:1px solid #fff;
+
+-webkit-border-radius:50% !important;
+   -moz-border-radius:50% !important;
+        border-radius:50% !important;
+
+-webkit-box-shadow:0 0px 2px -1px #000000;
+   -moz-box-shadow:0 0px 2px -1px #000000;
+        box-shadow:0 0px 2px -1px #000000;
+}
+.kento-clients-feedback .kento-cf-author-name{
+text-align:center;
+}
+.kento-clients-feedback ul.tabs{
+margin:0px;
+padding:0px;
+list-style:none;
+}
+.kento-clients-feedback ul.tabs li{
+background:none repeat scroll 0 0 rgba(0, 0, 0, 0);
+color:#222222;
+cursor:pointer;
+display:inline-block;
+margin:0 10px;
+padding:10px 15px;
+}
+.kento-clients-feedback ul.tabs li.current{
+color:#222222;
+position:relative;
+z-index:99;
+display:inline-block;
+}
+.kento-clients-feedback .tab-content{
+display:none;
+padding:15px;
+height:140px;
+}
+.kento-clients-feedback .tab-content.current{
+
+-webkit-border-radius:5px;
+   -moz-border-radius:5px;
+        border-radius:5px;
+
+-webkit-box-shadow:0 0 6px -3px #000000;
+   -moz-box-shadow:0 0 6px -3px #000000;
+        box-shadow:0 0 6px -3px #000000;
+display:inline-block;
+height: auto;
+margin-top:-1px;
+overflow:hidden;
+text-align:center;
+width:80%;
+z-index:9;
+}
+.kento-clients-feedback div.current p:before{
+background:url("quote.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+content:"";
+display:inline-block;
+height:20px;
+margin-right:10px;
+width:20px;
+}
+.kento-clients-feedback div.current p:after{
+background:url("quote-down.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+content:"";
+display:inline-block;
+height:20px;
+margin-left:10px;
+width:20px;
+}
+.kento-clients-feedback ul.tabs li.current:before{
+border-left:20px solid rgba(0, 0, 0, 0);
+border-right:20px solid rgba(0, 0, 0, 0);
+content:"";
+height:0;
+left:38%;
+position:absolute;
+top:197px;
+width:0;
+z-index:999;
+}
