@@ -55,9 +55,10 @@ Shortcodes Attribute
 
 
 == Screenshots ==
-1. Kento Clients Feedback 1.
-2. Kento Clients Feedback 2.
-3. Kento Clients Feedback 3.
+
+1. Kento Clients Feedback 1
+2. Kento Clients Feedback 2
+3. Kento Clients Feedback 3
 4. Kento Clients Feedback Admin
 
 
