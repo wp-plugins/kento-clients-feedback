@@ -1,5 +1,5 @@
 === Kento Clients Feedback ===
-Contributors: hasanrang05
+Contributors: kentothemes
 Donate link: 
 Tags:  Quote, Testimonial Rotator, Quote Slider, clients Feedback, clients Testimonial, testimonial slider
 Requires at least: 3.5
